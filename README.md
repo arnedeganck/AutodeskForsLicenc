@@ -10,10 +10,10 @@ Volg deze stappen om een PowerShell-script te maken en toe te voegen in Microsof
 
 3. Selecteer **Add** en kies **Windows 10 and later** > **PowerShell script**.
 
-4. Geef het script een naam, bijvoorbeeld **StopAutodeskService**.
+4. Geef het script een naam, bijvoorbeeld **AutodeskForceLicence**.
 
 5. Upload het script:
-   - Klik op **Select file** en kies je PowerShell-scriptbestand (`StopAutodeskService.ps1`).
+   - Klik op **Select file** en kies je PowerShell-scriptbestand (`AutodeskForceLicence.ps1`).
    - Kies **Yes** voor **Run this script using the logged-on credentials** als het script zonder beheerdersrechten moet draaien.
    - Stel **Enforce script signature check** in op **No** als het script niet ondertekend is.
 
